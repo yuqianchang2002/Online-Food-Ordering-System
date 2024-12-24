@@ -1,0 +1,17 @@
+**Database Name: WestFood Online Food Ordering System**
+
+**Developed by Group3 (Chang Yu Qian, Felix Hoi Man Yew, Alda Lim Ying Rong, Jerusha Emmanuelle Dass)**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+link:http://localhost/onlinefood-order/admin
+Username: admin
+Password: 123456
+
+
+**Customer Login Details**
+link: http://localhost/onlinefood-order
+Username: cus1	
+Password: 1234
